@@ -1,24 +1,36 @@
 # task2
 
-## Project setup
+## Clone project
+
+```
+git clone
+```
+
+### Move to project folder
+
+```
+cd task2
+```
+
+### Install dependencies
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Start project on localhost
+
 ```
-npm run serve
+npm run server
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Customize configuration
 
-### Lints and fixes files
-```
-npm run lint
-```
+There are still few things I would like to improve
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Animations
+- Components extraction and separation
+- Methods extraction
+- Better backend handling, for example on dev I could use json-server module
+- Better way to prepare data, it would simplyfy methods mentioned above
+- Add lazy loading for images
