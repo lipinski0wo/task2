@@ -3,7 +3,7 @@
 ## Clone project
 
 ```
-git clone
+git clone https://github.com/lipinski0wo/task2.git
 ```
 
 ### Move to project folder
@@ -24,9 +24,7 @@ npm install
 npm run server
 ```
 
-## Customize configuration
-
-There are still few things I would like to improve
+## There are still few things I would like to improve
 
 - Animations
 - Components extraction and separation
